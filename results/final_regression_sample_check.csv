@@ -1,0 +1,5 @@
+sample,observations,unique_firms,first_year,last_year
+H1 peer benchmark sample,90228,10446,2001,2024
+H2 acquisition adjustment sample,19806,3977,2001,2021
+H2 large acquisition adjustment sample,1865,1314,2001,2021
+H3 acquisition decision sample,78801,9270,2001,2023

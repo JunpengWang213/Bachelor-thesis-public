@@ -1,0 +1,26 @@
+fyear,observations,formula,status
+2000,0,skipped,too few observations
+2001,5410,market_leverage_w ~ lag_size_w + market_to_book_w + stock_return_w + rd_intensity_w + tangibility_w + profitability_w + lag_market_leverage_w + C(sic3),estimated
+2002,5091,market_leverage_w ~ lag_size_w + market_to_book_w + stock_return_w + rd_intensity_w + tangibility_w + profitability_w + lag_market_leverage_w + C(sic3),estimated
+2003,4785,market_leverage_w ~ lag_size_w + market_to_book_w + stock_return_w + rd_intensity_w + tangibility_w + profitability_w + lag_market_leverage_w + C(sic3),estimated
+2004,4627,market_leverage_w ~ lag_size_w + market_to_book_w + stock_return_w + rd_intensity_w + tangibility_w + profitability_w + lag_market_leverage_w + C(sic3),estimated
+2005,4468,market_leverage_w ~ lag_size_w + market_to_book_w + stock_return_w + rd_intensity_w + tangibility_w + profitability_w + lag_market_leverage_w + C(sic3),estimated
+2006,4299,market_leverage_w ~ lag_size_w + market_to_book_w + stock_return_w + rd_intensity_w + tangibility_w + profitability_w + lag_market_leverage_w + C(sic3),estimated
+2007,4160,market_leverage_w ~ lag_size_w + market_to_book_w + stock_return_w + rd_intensity_w + tangibility_w + profitability_w + lag_market_leverage_w + C(sic3),estimated
+2008,4023,market_leverage_w ~ lag_size_w + market_to_book_w + stock_return_w + rd_intensity_w + tangibility_w + profitability_w + lag_market_leverage_w + C(sic3),estimated
+2009,3832,market_leverage_w ~ lag_size_w + market_to_book_w + stock_return_w + rd_intensity_w + tangibility_w + profitability_w + lag_market_leverage_w + C(sic3),estimated
+2010,3632,market_leverage_w ~ lag_size_w + market_to_book_w + stock_return_w + rd_intensity_w + tangibility_w + profitability_w + lag_market_leverage_w + C(sic3),estimated
+2011,3535,market_leverage_w ~ lag_size_w + market_to_book_w + stock_return_w + rd_intensity_w + tangibility_w + profitability_w + lag_market_leverage_w + C(sic3),estimated
+2012,3455,market_leverage_w ~ lag_size_w + market_to_book_w + stock_return_w + rd_intensity_w + tangibility_w + profitability_w + lag_market_leverage_w + C(sic3),estimated
+2013,3506,market_leverage_w ~ lag_size_w + market_to_book_w + stock_return_w + rd_intensity_w + tangibility_w + profitability_w + lag_market_leverage_w + C(sic3),estimated
+2014,3537,market_leverage_w ~ lag_size_w + market_to_book_w + stock_return_w + rd_intensity_w + tangibility_w + profitability_w + lag_market_leverage_w + C(sic3),estimated
+2015,3469,market_leverage_w ~ lag_size_w + market_to_book_w + stock_return_w + rd_intensity_w + tangibility_w + profitability_w + lag_market_leverage_w + C(sic3),estimated
+2016,3322,market_leverage_w ~ lag_size_w + market_to_book_w + stock_return_w + rd_intensity_w + tangibility_w + profitability_w + lag_market_leverage_w + C(sic3),estimated
+2017,3209,market_leverage_w ~ lag_size_w + market_to_book_w + stock_return_w + rd_intensity_w + tangibility_w + profitability_w + lag_market_leverage_w + C(sic3),estimated
+2018,3156,market_leverage_w ~ lag_size_w + market_to_book_w + stock_return_w + rd_intensity_w + tangibility_w + profitability_w + lag_market_leverage_w + C(sic3),estimated
+2019,3112,market_leverage_w ~ lag_size_w + market_to_book_w + stock_return_w + rd_intensity_w + tangibility_w + profitability_w + lag_market_leverage_w + C(sic3),estimated
+2020,3082,market_leverage_w ~ lag_size_w + market_to_book_w + stock_return_w + rd_intensity_w + tangibility_w + profitability_w + lag_market_leverage_w + C(sic3),estimated
+2021,3183,market_leverage_w ~ lag_size_w + market_to_book_w + stock_return_w + rd_intensity_w + tangibility_w + profitability_w + lag_market_leverage_w + C(sic3),estimated
+2022,3473,market_leverage_w ~ lag_size_w + market_to_book_w + stock_return_w + rd_intensity_w + tangibility_w + profitability_w + lag_market_leverage_w + C(sic3),estimated
+2023,3335,market_leverage_w ~ lag_size_w + market_to_book_w + stock_return_w + rd_intensity_w + tangibility_w + profitability_w + lag_market_leverage_w + C(sic3),estimated
+2024,3195,market_leverage_w ~ lag_size_w + market_to_book_w + stock_return_w + rd_intensity_w + tangibility_w + profitability_w + lag_market_leverage_w + C(sic3),estimated

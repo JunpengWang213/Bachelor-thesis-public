@@ -1,0 +1,21 @@
+,H1 M1 Peer only,H1 M2 Peer + firm controls,H1 M3 Peer + peer controls,H1 M4 Full + lagged leverage
+Peer leverage,0.7532*** (37.41),0.0810*** (3.49),0.0559** (2.40),0.0656*** (7.16)
+"Peer size, lagged",,,0.0012 (0.57),0.0020*** (2.74)
+"Peer profitability, lagged",,,-0.0013 (-0.71),-0.0004 (-0.34)
+"Peer tangibility, lagged",,,0.1092*** (4.53),-0.0132 (-1.54)
+"Peer market-to-book, lagged",,,0.0001 (0.51),0.0000 (0.36)
+Lagged market leverage,,,,0.8193*** (235.85)
+"Size, lagged",,0.0036*** (6.07),0.0036*** (6.12),0.0003** (1.98)
+"Profitability, lagged",,-0.0050*** (-9.44),-0.0051*** (-9.48),-0.0007** (-2.56)
+"Tangibility, lagged",,0.1009*** (11.11),0.1019*** (11.22),0.0151*** (5.77)
+"Cash holdings, lagged",,-0.1780*** (-37.28),-0.1776*** (-37.24),-0.0248*** (-14.49)
+"Market-to-book, lagged",,-0.0002*** (-7.44),-0.0002*** (-7.39),-0.0000 (-0.39)
+"R&D intensity, lagged",,0.0022 (0.52),0.0021 (0.50),-0.0006 (-0.36)
+"R&D missing indicator, lagged",,0.0336*** (9.05),0.0335*** (9.05),0.0064*** (6.39)
+Observations,90228,90228,90228,90228
+Unique firms,10446,10446,10446,10446
+R-squared,0.15,0.278,0.279,0.727
+Dependent variable,market_leverage_w,market_leverage_w,market_leverage_w,market_leverage_w
+Year fixed effects,Yes,Yes,Yes,Yes
+Industry fixed effects,No,Yes,Yes,Yes
+Clustered standard errors,Firm level,Firm level,Firm level,Firm level

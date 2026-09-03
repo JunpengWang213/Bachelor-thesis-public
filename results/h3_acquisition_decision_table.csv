@@ -1,0 +1,18 @@
+,H3 M1 Future acq intensity,H3 M2 Future acq intensity full,H3 M3 Over/under leverage,H3 M4 Future acquirer dummy,H3 M5 Future large acq dummy
+Leverage deficit,-0.0202*** (-7.69),-0.0254*** (-9.52),,-0.1805*** (-9.38),-0.0360*** (-4.59)
+Overleveraged dummy,,,-0.0037*** (-7.33),,
+Underleveraged dummy,,,0.0024*** (4.65),,
+Size,,0.0027*** (23.55),0.0028*** (23.64),0.0698*** (51.80),0.0024*** (8.82)
+Profitability,,-0.0003*** (-3.05),-0.0003*** (-3.03),-0.0107*** (-13.66),-0.0000 (-0.16)
+Tangibility,,-0.0190*** (-12.79),-0.0192*** (-12.84),-0.2886*** (-18.33),-0.0266*** (-7.24)
+Cash holdings,,-0.0049*** (-4.14),-0.0051*** (-4.33),-0.1732*** (-16.23),-0.0014 (-0.44)
+Market-to-book,,0.0000*** (2.99),0.0000*** (3.05),0.0005*** (12.32),0.0000 (0.46)
+R&D intensity,,-0.0073*** (-9.58),-0.0073*** (-9.56),-0.0338*** (-5.15),-0.0156*** (-8.09)
+R&D missing indicator,,0.0005 (0.62),0.0005 (0.66),0.0073 (0.93),0.0012 (0.59)
+Observations,78801,78801,78801,78801,78801
+Unique firms,9270,9270,9270,9270,9270
+R-squared,0.007,0.052,0.052,0.237,0.014
+Dependent variable,future_firm_acq_intensity_1,future_firm_acq_intensity_1,future_firm_acq_intensity_1,future_acq_dummy_1,future_large_acq_dummy_1
+Year fixed effects,Yes,Yes,Yes,Yes,Yes
+Industry fixed effects,No,Yes,Yes,Yes,Yes
+Clustered standard errors,Firm level,Firm level,Firm level,Firm level,Firm level

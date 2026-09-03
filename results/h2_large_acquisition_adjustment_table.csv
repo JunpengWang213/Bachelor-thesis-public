@@ -1,0 +1,15 @@
+,H2 large M1 1-year adjustment,H2 large M3 3-year adjustment,H2 large M5 5-year adjustment
+Leverage deviation,-1.0619*** (-16.68),-0.9703*** (-33.04),-0.9851*** (-33.84)
+Acquisition intensity,0.0936*** (2.69),0.0416 (1.11),-0.0066 (-0.15)
+Target leverage change,0.0468 (0.75),-0.0238 (-0.91),-0.0264 (-1.16)
+Size,-0.0025** (-2.18),-0.0010 (-0.87),-0.0010 (-0.80)
+Profitability,-0.0031 (-1.56),-0.0044 (-1.57),0.0038 (0.94)
+Cash holdings,-0.0213 (-1.31),-0.0415** (-2.33),-0.0226 (-1.04)
+Market-to-book,-0.0002 (-1.08),-0.0007*** (-3.40),0.0003 (1.40)
+Observations,2338,1865,1459
+Unique firms,1652,1314,1047
+R-squared,0.638,0.643,0.668
+Dependent variable,delta_leverage_deviation_1,delta_leverage_deviation_3,delta_leverage_deviation_5
+Year fixed effects,Yes,Yes,Yes
+Industry fixed effects,Yes,Yes,Yes
+Clustered standard errors,Firm level,Firm level,Firm level

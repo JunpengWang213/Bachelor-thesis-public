@@ -1,0 +1,11 @@
+step,observations,unique_firms,observations_removed
+raw data,300420,32838,
+after type conversion,300420,32838,0.0
+after keeping standard industrial USD records,252670,27783,47750.0
+after keeping U.S. firms,219969,24308,32701.0
+after sample period restriction,209906,23081,10063.0
+after excluding financials and utilities,119789,12970,90117.0
+after requiring positive assets,114702,12900,5087.0
+after variable construction,114702,12900,0.0
+after house cleaning,114702,12900,0.0
+after target and future variable construction,114702,12900,0.0

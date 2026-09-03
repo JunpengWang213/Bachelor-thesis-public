@@ -1,0 +1,14 @@
+# Licensed research data is intentionally excluded
+data.csv
+results/final_model_variables_snapshot.csv
+
+# Python, editor, and operating-system files
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
+~$*
+
