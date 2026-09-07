@@ -55,7 +55,6 @@ conditional associations and do not establish causal effects.
 - `requirements.txt`: Python dependencies
 - `DATA_REQUIREMENTS.md`: required fields for an authorised Compustat extract
 - `results/`: aggregate regression tables and processing logs
-- `LICENSE`: licence for the source code
 
 ## Reproduce the analysis
 
