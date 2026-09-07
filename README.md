@@ -76,9 +76,3 @@ publication.
 The script reproduces the main sample construction and the H1-H3 regression
 tables. The additional robustness analyses reported in the thesis are outside
 the scope of the public replication code.
-
-## Licence
-
-The source code is available under the MIT License. The thesis PDF, written
-research content, and reported empirical results remain © 2026 Junpeng Wang and
-are not covered by the software licence.
